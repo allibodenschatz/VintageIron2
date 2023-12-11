@@ -1,0 +1,166 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+#mainNav{
+  background-color: #f3f3f3;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 20px;
+  color: black !important;
+  
+}
+#navname{
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 50px;
+  color: black !important;
+}
+ 
+
+
+#vintage{
+  text-shadow:0 0 3px #6cccd9, 0 0 5px #0000FF; 
+  font-size: 87px;
+  color:#6cccd9;
+  text-decoration: underline;
+  letter-spacing: .1rem;
+  padding-top: 80px;
+  padding-left:30px;
+   font-family: 'Bebas Neue', sans-serif;
+
+
+}
+
+#number{
+  font-family: 'Bebas Neue', sans-serif;
+  font-size:50px;
+  padding-left:30px;
+  color:#ffffff;
+  text-shadow:0 0 3px #FF0000, 0 0 5px #0000FF; 
+}
+
+
+
+
+#bold{
+  font-weight:bolder;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  }
+
+#firstimage{
+background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.1)), url(firstimage.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1800px;
+  background-color: white;
+  height:800px;
+  
+ 
+}
+
+h1{
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 72px;
+  border-bottom: solid;
+  border-bottom-width: 2px;
+  border-bottom-color:#6cccd9 ;
+   text-align:center;
+  letter-spacing: .2rem;
+  
+}
+
+.join{
+background-color:#ffffff; 
+  color:black;
+  font-weight: bold;
+  padding: 20px 70px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+}
+.shop{
+background-color:#f1a1e0; 
+  color:whitesmoke;
+  font-weight:bold;
+  padding: 20px 70px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+}
+
+
+#bgimage3 {  
+background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(alex.jpeg);
+background-size: cover; 
+
+
+
+
+}
+
+
+.picture222{
+  padding:50px;
+}
+
+li {
+  display: inline;
+  
+}
+.intro{
+  font-family: 'Open Sans', sans-serif;
+ 
+  padding-left:80px;
+}
+#title{
+	padding-top: 200px;
+  text-align:center;
+}
+
+.choose{
+  color:#FFFFFF;
+}
+
+#welcome{
+  padding-top:30px;
+  padding-bottom:80px;
+
+
+}
+ 
+#memberships{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(alex.jpeg);
+  text-align: center;
+  background-repeat:no-repeat;
+  background-size: 2000px;
+
+}
+
+.hrsoperation li::after {
+  content: '\A';
+  white-space: pre;
+}
+
+.quick{
+  padding-left:30px;
+
+}
+
+h2{
+font-family: 'Bebas Neue', sans-serif ;
+font-size:45px;
+letter-spacing: 0.05rem;
+color:#f1a1e0 !important;
+}
+
+
+footer{
+
+  font-family: 'Work Sans', sans-serif;
+  border-top: solid;
+  background-color:#f3f3f3;
+  color:black;
+
+
+}
+
+

@@ -1,0 +1,57 @@
+#mainNav{
+	background-color: #f3f3f3;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 20px;
+}
+#navname{
+	font-family: 'Bebas Neue', sans-serif;
+	font-size: 50px;
+	
+}
+
+
+#firstimage{
+background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(firstimage.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1800px;
+  background-color: white;
+  height:800px;
+  }
+
+.title{
+	font-size: 70px;
+	color:whitesmoke;
+	font-weight: bold;
+	font-family: 'Bebas Neue', sans-serif;
+	letter-spacing: .2rem;
+	padding-top: 400px;
+
+	
+}
+#bold{
+	font-weight:bolder;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+}
+
+.btn{
+	font-weight:bold;
+}
+.businesscard{
+	padding-right:200px;
+}
+h3{
+	font-family: 'Work Sans', sans-serif;
+	color:#5C5C5C
+}
+
+
+
+	footer{
+	font-family: 'Work Sans', sans-serif;
+  border-top: solid;
+  background-color:#f3f3f3;
+  color:black;
+
+}

@@ -1,0 +1,147 @@
+
+#mainNav{
+	background-color:#f3f3f3;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 20px;
+}
+#navname{
+	font-family: 'Bebas Neue', sans-serif;
+	font-size: 50px;
+	
+}
+
+
+#firstimage{
+background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(firstimage.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1800px;
+  background-color: white;
+  height:800px;
+  
+
+}
+.title{
+	font-size: 70px;
+	color:whitesmoke;
+	font-weight: bold;
+	font-family: 'Bebas Neue', sans-serif;
+	letter-spacing: .2rem;
+	padding-top: 400px;
+	padding-left:-300px;
+	
+}
+
+
+#graphic{
+padding-left:300px;
+}
+
+
+footer{
+  border-top: solid;
+  background-color:#f3f3f3;
+  color:black;
+  font-family: 'Work Sans', sans-serif;
+}
+
+#carouselExampleIndicators{
+	padding-left:100px;
+	padding-bottom:50px;
+}
+
+#h1{
+	text-align: center;
+}
+
+
+
+}
+
+.about{
+	
+	
+
+}
+
+.will{
+	padding-top: 60px;
+	padding-bottom:60px;
+	
+}
+
+h1{
+	font-family: 'Bebas Neue', sans-serif;
+	font-size: 68px;
+	border-bottom: solid;
+	border-bottom-width: 2px;
+	border-bottom-color:#6cccd9 ;
+	text-align: center;
+	letter-spacing: .2rem;
+	
+
+}
+
+.bg-3{
+
+
+}
+
+#bgimage{
+	background-image: url(background.png);
+	padding-bottom: 70px;
+}
+
+
+#contactbutton{
+background-color:#6cccd9; 
+  color:whitesmoke;
+  text-decoration: underline;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  color:white;
+  border-radius: 4px;
+}
+
+
+h2{
+padding-top:25px;
+text-align:center;
+font-weight: bolder;
+font-size:45px;
+letter-spacing:.1rem;
+}
+
+#paragraph3{
+font-family: 'Open Sans', sans-serif;
+padding-top: 30px;
+}
+
+
+
+#callus{
+	padding-top:50px;
+	font-size: 40px;
+	font-weight:bold;
+	font-family: 'Oswald', sans-serif;
+	letter-spacing: .2rem;
+}
+
+#phonenumber{
+	font-size:60px;
+	font-weight:bold;
+	padding-bottom: 150px;
+	font-family: 'Oswald', sans-serif;
+}
+
+
+#paragraph{
+	font-size:20px;
+	font-weight:semi-bold;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+
